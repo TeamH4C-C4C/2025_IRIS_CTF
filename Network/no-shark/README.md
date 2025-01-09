@@ -1,4 +1,4 @@
-![image.png](./assets/image1.png)
+![image.png](./assets/image.png)
 
 패킷들이 hex dump 형태로 주어진다.
 
