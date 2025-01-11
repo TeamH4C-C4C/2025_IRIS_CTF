@@ -1,4 +1,4 @@
-# Password manager (50 Points)
+# Password manager (50 Points) - 357 Solved
 
 go로 짜여진 간단한 password manager 기능을 가진 사이트이다.
 
