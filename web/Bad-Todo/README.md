@@ -62,7 +62,7 @@ app.post("/start", asyncHandler(async (req, res) => {
     }
 }));
 ```
-`req.body.issuer + "/.well-known/openid-configuration"`에서 반환하는 값을 정보들로 사용하고 있는데 issuer은 safe_fetch.js코드를 보면 알 수 있듯이 https://스킴이면은 모든 허용한다.
+`req.body.issuer + "/.well-known/openid-configuration"`에서 반환하는 값을 정보들로 사용하고 있는데 issuer은 safe_fetch.js코드를 보면 알 수 있듯이 `https://`스킴이면은 모든 허용한다.
 아래는 safe_fetch.js코드이다.
 ```
 export async function safeFetch(url, params) {
