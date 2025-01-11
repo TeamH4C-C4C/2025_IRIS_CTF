@@ -59,6 +59,8 @@ token값을 인증시키려면 /giveflag경로로 요청하고 token인자를 �
 
 `/%67iveflag?%74oken=fd895559bef1c146eed5bafcaac751d6`
 이런식으로 요청하면 우회가 되고 내 token을 인증시킬 수 있다.
+![image](https://github.com/user-attachments/assets/f0828156-aa32-496c-b86d-09f97c08853f)
+
 혹은 /\giveflag 이런식으로 해도 경로 우회가 가능하다.
 
 **FLAG**: `irisctf{flag_blocked_by_admin}`
