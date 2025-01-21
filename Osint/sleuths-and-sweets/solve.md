@@ -1,8 +1,8 @@
 문제에 주어진 블로그에서 특정 맛집의 주소를 찾아내는 문제로 블로그에 주어진 이미지는 다음과 같다.
 (다만, 첫번째 사진의 경우 문제 사이트가 닫혀 비슷한 이미지로 구해옴)
 
-![image](/crepes.jpg)
-![iamge](/Crepe_Station.png)
+![image](crepes.jpg)
+![iamge](Crepe_Station.png)
 
 방법은 간단했다 구글 렌즈 혹은 구글 이미지 검색을 통해 첫번째 이미지를 검색해보면 `Marion Crepe` 라는 이름의 가게라는걸 알 수 있었다.
 
